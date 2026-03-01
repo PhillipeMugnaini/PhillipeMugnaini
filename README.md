@@ -53,6 +53,24 @@ Me chamo **Phillipe Mugnaini**. Atualmente, estou cursando **Engenharia de Softw
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="PowerBI"
+    title="PowerBI" 
+    width="25px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/960px-New_Power_BI_Logo.svg.png" 
+/>
+
+<img 
+    align="left" 
+    alt="Exel"
+    title="Exel" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg/960px-Microsoft_Office_Excel_%282019%E2%80%932025%29.svg.png" 
+/>
+
 <br/>
 <br/>
 

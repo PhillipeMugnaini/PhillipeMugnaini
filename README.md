@@ -38,6 +38,14 @@ Me chamo **Phillipe Mugnaini**. Atualmente, estou cursando **Engenharia de Softw
 />
 <img 
     align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Java"
     title="Java" 
     width="30px" 
@@ -70,6 +78,7 @@ Me chamo **Phillipe Mugnaini**. Atualmente, estou cursando **Engenharia de Softw
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg/960px-Microsoft_Office_Excel_%282019%E2%80%932025%29.svg.png" 
 />
+
 
 <br/>
 <br/>

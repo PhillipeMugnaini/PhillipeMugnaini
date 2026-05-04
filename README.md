@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Phillipe Mugnaini
+# 👨‍💻​ Phillipe Mugnaini
 
 **`Estudante de Engenharia de Software`**
 
